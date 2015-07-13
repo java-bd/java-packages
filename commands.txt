@@ -2,5 +2,9 @@
 
 git status
 git add .
+
+// if deleted & renamed files 
+git add -u
+
 git commit -m "added & renamed"
 git push -u origin master
