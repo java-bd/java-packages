@@ -1,0 +1,5 @@
+/c/ME/Drive/JavaCodes
+
+git status
+git add .
+git push -u origin master
