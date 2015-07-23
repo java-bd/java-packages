@@ -10,7 +10,7 @@ import java.awt.event.ActionEvent;
 public class MandelbrotExitByEscKey extends JFrame {
  
     private final int MAX_ITER = 570;
-    private final double ZOOM = 150;
+    private final double ZOOM = 250;
     private BufferedImage I;
     private double zx, zy, cX, cY, tmp;
  
