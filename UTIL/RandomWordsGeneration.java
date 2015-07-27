@@ -2,7 +2,7 @@
 	Random Word Generation :
 	Run this program by : 
 	javac RandomWordsGeneration.java
-	java RandomWordsGeneration.java size (e.g 10)
+	java RandomWordsGeneration.java <size> (e.g 10)
 */
 
 
