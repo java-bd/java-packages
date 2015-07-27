@@ -1,5 +1,5 @@
 
-/** Run From Command Line & See How Fast Downloading Images from TaskBar :)
+/** Run From Command Line & See How Fast Downloading Images from windows Task manager  :)
 *	
 *   javac MainMultiThreadImageDownload.java
 *	java MainMultiThreadImageDownload
