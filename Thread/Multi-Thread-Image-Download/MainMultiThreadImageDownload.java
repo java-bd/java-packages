@@ -1,4 +1,11 @@
 
+/** Run From Command Line & See How Fast Downloading Images from TaskBar :)
+*	
+*   javac MainMultiThreadImageDownload.java
+*	java MainMultiThreadImageDownload
+*/
+
+
 public class MainMultiThreadImageDownload {
 
     public static void main(String[] args) throws Exception {
