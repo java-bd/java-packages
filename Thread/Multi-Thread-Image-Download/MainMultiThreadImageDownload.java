@@ -1,5 +1,5 @@
 
-public class JSON {
+public class MainMultiThreadImageDownload {
 
     public static void main(String[] args) throws Exception {
 
