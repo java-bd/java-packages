@@ -41,12 +41,12 @@ public class MandelbrotExitByEscKey extends JFrame {
 	        KeyStroke.getKeyStroke(KeyEvent.VK_ESCAPE, 0), "Cancel");
 	        getRootPane().getActionMap().put("Cancel", new AbstractAction()
 	        { 
-	
 	            public void actionPerformed(ActionEvent e)
 	            {
 	                System.exit(0);
 	            }
-       });
+       		}
+       );
 		
     }
  
